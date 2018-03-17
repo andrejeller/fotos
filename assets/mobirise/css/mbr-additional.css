@@ -2920,7 +2920,7 @@ body {
   text-align: left;
 }
 .cid-qMvTDsJA0V {
-  padding-top: 30px;
+  padding-top: 0px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
@@ -2928,26 +2928,26 @@ body {
 .cid-qMvTDsJA0V blockquote {
   color: #767676;
 }
-.cid-qMwfhVkG6H {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-qMwzVy0sLh {
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #efefef;
 }
-.cid-qMwfhVkG6H .mbr-slider .carousel-control {
+.cid-qMwzVy0sLh .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-qMwfhVkG6H .mbr-slider .carousel-control-prev {
+.cid-qMwzVy0sLh .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-qMwfhVkG6H .mbr-slider .carousel-control-next {
+.cid-qMwzVy0sLh .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-qMwfhVkG6H .mbr-slider .modal-body .close {
+.cid-qMwzVy0sLh .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-qMwfhVkG6H .mbr-gallery-item > div::before {
+.cid-qMwzVy0sLh .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
@@ -2960,13 +2960,13 @@ body {
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
 }
-.cid-qMwfhVkG6H .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+.cid-qMwzVy0sLh .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
-.cid-qMwfhVkG6H .mbr-gallery-item > div:hover:before {
+.cid-qMwzVy0sLh .mbr-gallery-item > div:hover:before {
   opacity: 0.7 !important;
 }
-.cid-qMwfhVkG6H .mbr-gallery-title {
+.cid-qMwzVy0sLh .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
@@ -2976,7 +2976,7 @@ body {
   color: #fff;
   z-index: 2;
 }
-.cid-qMwfhVkG6H .mbr-gallery-title:before {
+.cid-qMwzVy0sLh .mbr-gallery-title:before {
   content: " ";
   width: 100%;
   height: 100%;
@@ -4016,7 +4016,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qMwi7PtnCI {
-  background-image: url("../../../assets/images/fotos.morretes-14-1280x960.png");
+  background-color: #073b4c;
 }
 .cid-qMwi7Rgxtq {
   padding-top: 30px;
