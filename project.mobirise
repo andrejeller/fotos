@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "JellerFotos",
-    "currentPage": "index.html",
+    "currentPage": "morretes_antonina.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3055,7 +3055,7 @@
     "morretes_antonina.html": {
       "settings": {
         "meta_descr": "",
-        "title": "Morretes & Antonina",
+        "title": "Morretes e Antonina",
         "order": 3
       },
       "components": [
@@ -4526,30 +4526,6 @@
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/fotos.paraiso-2-1280x960.png",
-                "thumb": "@PROJECT_PATH@/assets/images/fotos.paraiso-2-1280x960-800x600.png",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/fotos.paraiso-3-1280x960.png",
-                "thumb": "@PROJECT_PATH@/assets/images/fotos.paraiso-3-1280x960-800x600.png",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
               }
             ]
           }
